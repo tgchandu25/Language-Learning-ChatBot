@@ -11,13 +11,12 @@ This project is a real-time, multilingual language learning chatbot built with O
 - Secure API handling via environment secrets
 
 ## Deployment
-The app is deployed on Hugging Face using Gradio. OpenAI keys are securely managed via Hugging Face secrets.
+The app is deployed on Hugging Face using Gradio.
 
 ## Files Included
 - `app.py` – Main application file
 - `requirements.txt` – Python dependencies
 - `README.md` – Project overview
-- Documentation and diagram can be added as needed
 
 ## Author
 Built and submitted as part of an AI Engineer hiring task.
