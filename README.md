@@ -17,6 +17,3 @@ The app is deployed on Hugging Face using Gradio.
 - `app.py` – Main application file
 - `requirements.txt` – Python dependencies
 - `README.md` – Project overview
-
-## Author
-Built and submitted as part of an AI Engineer hiring task.
